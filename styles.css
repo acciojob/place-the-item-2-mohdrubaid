@@ -1,14 +1,14 @@
 
 /* Your CSS Code here. */
-.holder{
+/*.holder{
 	dispaly:flex;
-	flex-direction:row;
-	flex-wrap:wrap;
-}
-.item{
-	display:block;
-	background-color:green;
-	width:50px;
-	height:50px;
+	flex-direction:row wrap;
+	justify-content: center;
 	
 }
+.item{
+	padding:10px;
+	margin: 5px;
+	border: 2px solid #ccc
+	
+}*/
